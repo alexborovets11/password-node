@@ -1,0 +1,43 @@
+.main {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    background-color: #e9e9e9;
+  }
+  
+  h1 {
+    color: rgb(108, 212, 108);
+  }
+  
+  button {
+    font-family: sans-serif;
+    background-color: rgb(84, 194, 84);
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input {
+    padding: 4px;
+    border-radius: 5px;
+  }
+  
+  #feedback {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .valid {
+    color: rgb(84, 194, 84);
+    font-size: 16px;
+    font-family: sans-serif;
+  }
+  
+  .invalid {
+    color: red;
+    font-size: 16px;
+    font-family: sans-serif;
+  }
